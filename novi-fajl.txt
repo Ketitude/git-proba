@@ -1,1 +1,2 @@
 "tekst na grani master" 
+"tekst na grani nova-grana" 
